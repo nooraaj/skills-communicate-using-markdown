@@ -1,1 +1,2 @@
-# This is a sample edit.
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
